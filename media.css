@@ -1,0 +1,10 @@
+@media (min-width: 1024px) and (max-width: 1199px) {
+    .first-service-item {
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: center;
+    }
+    .two-service-item {
+        margin-right: 30px;
+    }
+  }
